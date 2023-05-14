@@ -1,6 +1,7 @@
 my name is david miller a.k.a koriome
 
-was a computer science major until i realized that i don't like coding
+was a computer science major until i realized that i don't like coding.
+
 now i am majoring in marketing and code things when i must
 
 i make things and you should look at them, like my [youtube](youtube.com/@koriome) or [twitter](twitter.com/koriome)
